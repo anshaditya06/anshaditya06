@@ -1,7 +1,6 @@
 # Hi, I'm Ansh 👋
 
-🎓 B.Tech in Mathematics and Computing  
-📍 Parul Institute of Engineering and Technology  
+🎓 B.Tech in Mathematics and Computing 
 💻 Python Developer | Learning Software Development  
 
 ## Currently Learning
