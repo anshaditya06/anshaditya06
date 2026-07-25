@@ -1,7 +1,7 @@
 # Hi, I'm Ansh 👋
 
-🎓 B.Tech in Mathematics and Computing 
-Learning Programming and DSA 
+🎓 B.Tech in Mathematics and Computing | Learning Programming and DSA 
+
 
 ## Currently Learning
 - Python (Developer perspective)
