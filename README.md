@@ -7,19 +7,14 @@
 - Python (Developer perspective)
 - Object Oriented Programming
 - Data Structures
-- Preparing for Machine Learning
 
 ## Projects
-- Snake Game (Python + Turtle)
-- Pong Game
-- Turtle Crossing Game
-- Coffee Machine Simulator
-- Quiz Game
+- TaskPilot (To-do list web app)
+- Morse_Converter (CLI based)
+- Typing_Speed_Test (GUI App)
 
 ## Goals
 - Build strong programming fundamentals
-- Transition into Machine Learning
-- Contribute to open source
 
 ## Tools
 Python • Git • GitHub • VS Code
